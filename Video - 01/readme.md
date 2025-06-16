@@ -4,7 +4,7 @@
 
 ---
 
-### 📌 এই ভিডিওতে যেসব বিষয় কভার করা হয়েছে:
+### 📌 এই ভিডিওতে যেসব বিষয় কভার করা হয়েছে: [Video Link](https://youtu.be/vyn6561oQkw)
 
 ✅ **What is Power BI?**
 Power BI কী, কেন এটা Data Analysis ও Visualization-এর জন্য এত গুরুত্বপূর্ণ — তা সহজ ভাষায় ব্যাখ্যা করেছি।
@@ -55,7 +55,7 @@ Power BI-এর মূল Interface এ কোন Tab, Pane, View কোথা�
 আমার সাথে শিখতে থাকুন —
 💻 SQL, Python, Data Analysis, Machine Learning, Power BI
 সব কিছু একদম বাংলায়, Step by Step!
-📌 Subscribe Now: [Dropout Programmer]((https://www.youtube.com/@DropoutProgrammer))
+📌 Subscribe Now: [Dropout Programmer](https://www.youtube.com/@DropoutProgrammer)
 
 ---
 
