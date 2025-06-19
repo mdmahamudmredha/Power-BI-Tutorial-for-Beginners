@@ -1,7 +1,7 @@
 # Power BI Tutorial for Beginners
 
 
-## 🎥 **Power BI Day\_01**
+### 🎥 **Power BI Day\_01**
 
 ### 📊 Power BI Introduction | Why Power BI | Power BI Architecture | ETL Explained | Bangla | Dropout Programmer
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎥 **Power BI Day\_02**
+### 🎥 **Power BI Day\_02**
 
 ### 🛠️ Text Function | Merge, Split, Format, Extract Explained | Power Query Editor | Real-life Example | Bangla
 
