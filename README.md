@@ -1,6 +1,11 @@
 # Power BI Tutorial from Basic to Advanced for Data Scientist
+## All Contents of matplotlib playlist
 
 ---
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Power-BI-Tutorial-for-Beginners/blob/main/Power%20BI%20Playlist.png" width="1000"/>
+</p>
 
 ### 🔗 **Power BI Tutorial from Basic to Advanced for Data Scientist | 12 Dashboard Projects | Bangla**
 
@@ -66,6 +71,37 @@ Explore the full series here —
 ### 📝 **Class Notes (PDF)**
 
 ### 📑 **Slides (PPT)**
+
+---
+
+### 🎥 **Power BI Day\_03**
+
+### 📆 Date & Number Function in Power Query | Transform Date | Percentage Calculation | Bangla | Dropout Programmer
+
+### Welcome to **Power BI Bangla Series Day\_03**!
+
+এই সেশনে আমরা আলোচনা করেছি —
+
+✅ Date Function গুলোর মাধ্যমে কীভাবে ডেটা থেকে বছর, মাস, তারিখ, সপ্তাহ ইত্যাদি বের করা যায়
+✅ Start of Month, End of Month, এবং Custom Date Formatting
+✅ Date Difference ও Date Calculation (Add/Subtract Days)
+✅ Number Function এর মাধ্যমে Round, Absolute Value, Modulo, Percentage of ইত্যাদি বের করা
+✅ Even/Odd চেক করা, Integer Division ও Scientific Notation
+✅ Real-life Example: Sales Report-এ Date Breakdown, Discount Percentage, ও Quantity-Based Analysis
+✅ Power Query Editor ব্যবহার করে Date এবং Number Function গুলো Step-by-Step বাস্তব উদাহরণসহ ব্যাখ্যা
+
+### 📚 Resources - Notes, Slides & Video
+
+### 🎥 **Video Link - Power BI Day\_03**
+
+👉 [Watch Now on YouTube](https://youtu.be/PvzPj0O0OGY)
+
+### 📓 **Practice Dataset**
+
+### 📝 **Class Notes (PDF)**
+
+### 📑 **Slides (PPT)**
+
 
 ---
 
