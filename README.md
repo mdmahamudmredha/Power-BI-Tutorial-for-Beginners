@@ -1,5 +1,13 @@
-# Power BI Tutorial for Beginners
+# Power BI Tutorial from Basic to Advanced for Data Scientist
 
+---
+
+### 🔗 **Power BI Tutorial from Basic to Advanced for Data Scientist | 12 Dashboard Projects | Bangla**
+
+Explore the full series here —
+👉 [Power BI in Bangla Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpfA1gvdJdfWZIzRIAR5NeB)
+
+---
 
 ### 🎥 **Power BI Day\_01**
 
