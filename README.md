@@ -1,7 +1,6 @@
 # Power BI Tutorial from Basic to Advanced for Data Scientist
-## All Contents of matplotlib playlist
 
----
+## All Contents of Power BI playlist
 
 <p align="center">
   <img src="https://github.com/mdmahamudmredha/Power-BI-Tutorial-for-Beginners/blob/main/Power%20BI%20Playlist.png" width="1000"/>
