@@ -101,6 +101,34 @@ Explore the full series here —
 
 ### 📑 **Slides (PPT)**
 
+---
+### 🎥 **Power BI Day\_04**
+
+### 🎬 Power BI Tutorial | Column From Examples + Conditional Column | Bangla | Dropout Programmer
+
+### Welcome to **Power BI Bangla Series – Day\_04**  
+এই সেশনে আমরা আলোচনা করেছি:
+
+✅ Column From Examples দিয়ে কীভাবে Example দিয়ে নতুন কলাম তৈরি করা যায়  
+✅ Text column থেকে সহজে Main অংশ (Name, Code, Domain) আলাদা করা  
+✅ Split / Extract Function vs Column From Examples – পার্থক্য ও সুবিধা  
+✅ Conditional Column দিয়ে IF / ELSE Logic বসিয়ে Decision Based Column তৈরি  
+✅ Marks অনুযায়ী Grade বানানো  
+✅ Gender + Marital Status থেকে Title (Mr, Mrs, Miss) তৈরি করা  
+✅ Industry use-case কীভাবে handle করা যায়
+
+### 📚 Resources - Notes, Slides & Data
+
+👉 [Watch Now on YouTube](https://youtu.be/Zhnb9Yl05eM)
+
+📥 **Practice Dataset (Excel)**  
+👉 [Download Excel Dataset](#)
+
+📝 **Power Query Steps Summary (PDF)**  
+👉 [Download Summary Notes](#)
+
+📑 **Slides for Class Explanation (PPT)**  
+👉 [Download Slides](#)
 
 ---
 
